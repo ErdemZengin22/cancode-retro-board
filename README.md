@@ -23,7 +23,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repo.
 
-`git clone https://github.com/ErdemZengin22/retro-board.git`
+`git clone https://github.com/ErdemZengin22/cancode-retro-board.git`
 
 2. Install NPM packages.
 
